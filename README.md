@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/fft-devops/fiftyfivetech/_apis/build/status/mykg.pipelines-java?branchName=master)](https://dev.azure.com/fft-devops/fiftyfivetech/_build/latest?definitionId=87&branchName=master)
 
 # Contributing
 
